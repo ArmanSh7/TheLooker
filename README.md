@@ -10,4 +10,8 @@
 ![Financial Overview](9.png "Customer Segmentation")
 ![Financial Overview](10.png "Recommendations")
 
+
 ### Code
+![Financial Overview](Top-products-query.png "Top products query")
+![Financial Overview](Top-products-code.png "Top products-code")
+![Financial Overview](Top-products-graph.png "Top-Products-graph")
