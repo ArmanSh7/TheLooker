@@ -12,7 +12,7 @@
 
 
 ### Code
-##Top 9 product distribution (2024)
+## Top 9 product distribution (2024)
 
 ![Financial Overview](Top-products-query.png "Top products query")
 ![Financial Overview](Top-products-code.png "Top products-code")
