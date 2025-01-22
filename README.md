@@ -19,6 +19,7 @@
 ![Financial Overview](Top-products-visulisation.png "Top-Products-graph")
 ![Financial Overview](Top-products-final_visulisation.png "Top-Products-graph")
 
+### Customer Acquisition
 ## Customer Acquisition Revenue Distribution and Average Order Value Pie charts (2024)
 ![Financial Overview](traffic_source_Sales_query1.png "QueryPart1")
 ![Financial Overview](traffic_source_Sales_query2.png "QueryPart2")
@@ -29,6 +30,14 @@
 ![Financial Overview](traffic_Source_piechart2024.png "PieChart")
 
 ## Customer Acquisition Revenue Distribution and Average Order Value Pie charts (2019-2024)
+![Financial Overview](traffic_source_Sales_query5.png "QueryPart1")
+![Financial Overview](traffic_source_Sales_query2.png "QueryPart2")
+![Financial Overview](traffic_source_Sales_query3.png "QueryPart3")
+![Financial Overview](traffic_source_Sales_query6.png "QueryPart4")
+![Financial Overview](visulisation_traffic_Source_piechart.png "PlotCode")
+![Financial Overview](traffic_Source_piechart_alltime.png "PieChart")
+
+## Traffic Sources Conversion Rate Growth
 ![Financial Overview](traffic_source_Sales_query5.png "QueryPart1")
 ![Financial Overview](traffic_source_Sales_query2.png "QueryPart2")
 ![Financial Overview](traffic_source_Sales_query3.png "QueryPart3")
