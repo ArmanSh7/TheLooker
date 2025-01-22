@@ -38,11 +38,8 @@
 ![Financial Overview](traffic_Source_piechart_alltime.png "PieChart")
 
 ## Traffic Sources Conversion Rate Growth
-![Financial Overview](traffic_source_Sales_query5.png "QueryPart1")
-![Financial Overview](traffic_source_Sales_query2.png "QueryPart2")
-![Financial Overview](traffic_source_Sales_query3.png "QueryPart3")
-![Financial Overview](traffic_source_Sales_query6.png "QueryPart4")
-![Financial Overview](visulisation_traffic_Source_piechart.png "PlotCode")
-![Financial Overview](traffic_Source_piechart_alltime.png "PieChart")
+![Financial Overview](traffic_Source_conversion_rate_query.png "Conversion rate query")
+![Financial Overview](traffic_Source_conversion_rate_yearly_code.png "Conversion rate code")
+![Financial Overview](traffic_Source_conversion_rate_plot.png "Conversion rate plot")
 
 
