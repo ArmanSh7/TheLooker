@@ -30,3 +30,13 @@
 ![Financial Overview](8.png "2024-Customer Acquisition")
 ![Financial Overview](9.png "Customer Segmentation")
 ![Financial Overview](10.png "Recommendations")
+
+## Customer Acquisition Revenue Distribution and Average Order Value Pie charts (2019-2024)
+![Financial Overview](traffic_source_Sales_query5.png "QueryPart1")
+![Financial Overview](traffic_source_Sales_query2.png "QueryPart2")
+![Financial Overview](traffic_source_Sales_query3.png "QueryPart3")
+![Financial Overview](traffic_source_Sales_query6.png "QueryPart4")
+![Financial Overview](visulisation_traffic_Source_piechart.png "PlotCode")
+![Financial Overview](traffic_Source_piechart_alltime.png "PieChart")
+
+
