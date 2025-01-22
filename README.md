@@ -51,4 +51,3 @@
 ![Financial Overview](each_traffic_Source_conversion_rate_query_alltime.png "Conversion rate query")
 ![Financial Overview](each_traffic_Source_conversion_rate_plot_code_alltime.png "Conversion rate code")
 ![Financial Overview](each_traffic_Source_conversion_rate_plot_alltime.png "Conversion rate plot")
-each_traffic_Source_conversion_rate_query_alltime.png
