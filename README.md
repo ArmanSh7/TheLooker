@@ -42,4 +42,13 @@
 ![Financial Overview](traffic_Source_conversion_rate_yearly_code.png "Conversion rate code")
 ![Financial Overview](traffic_Source_conversion_rate_plot.png "Conversion rate plot")
 
+## Different Traffic Sources Conversion Rates 2024
+![Financial Overview](each_traffic_Source_conversion_rate_query_2024.png "Conversion rate query")
+![Financial Overview](each_traffic_Source_conversion_rate_plot_code_alltime.png "Conversion rate code")
+![Financial Overview](each_traffic_Source_conversion_rate_plot_2024.png "Conversion rate plot")
 
+## Different Traffic Sources Conversion Rates (2019-2024)
+![Financial Overview](each_traffic_Source_conversion_rate_query_alltime.png "Conversion rate query")
+![Financial Overview](each_traffic_Source_conversion_rate_plot_code_alltime.png "Conversion rate code")
+![Financial Overview](each_traffic_Source_conversion_rate_plot_alltime.png "Conversion rate plot")
+each_traffic_Source_conversion_rate_query_alltime.png
