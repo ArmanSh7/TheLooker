@@ -22,8 +22,8 @@
 ### Region Distribution
 ![Financial Overview](Country_revenue_profit_query.png "Query")
 ![Financial Overview](Country_revenue_profit_code.png "Region Distribution code")
-![Financial Overview](Country_revenue_profit_plot.png "Plot")
 ![Financial Overview](Country_revenue_profit_visualisation.png "Stack bar Visualisation")
+![Financial Overview](Country_revenue_profit_plot.png "Plot")
 
 ### Customer Acquisition
 ## Customer Acquisition Revenue Distribution and Average Order Value Pie charts (2024)
