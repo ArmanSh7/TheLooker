@@ -19,6 +19,12 @@
 ![Financial Overview](Top-products-visulisation.png "Top-Products-graph")
 ![Financial Overview](Top-products-final_visulisation.png "Top-Products-graph")
 
+### Region Distribution
+![Financial Overview](Country_revenue_profit_query.png "Query")
+![Financial Overview](Country_revenue_profit_code.png "Region Distribution code")
+![Financial Overview](Country_revenue_profit_plot.png "Plot")
+![Financial Overview](Country_revenue_profit_visualisation.png "Stack bar Visualisation")
+
 ### Customer Acquisition
 ## Customer Acquisition Revenue Distribution and Average Order Value Pie charts (2024)
 ![Financial Overview](traffic_source_Sales_query1.png "QueryPart1")
