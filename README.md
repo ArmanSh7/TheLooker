@@ -75,5 +75,5 @@
 ![Customer Segemntation](RFM-find_score.png "RFM-find_score")
 ![Customer Segemntation](RFM-find_score_Aplied.png "RFM-find_score_applied")
 ![Customer Segemntation](assign-rfm-segments.png "assign_rfm_segmentation")
-![Customer Segemntation](Segment-customers.png "segment-customers")
+![Customer Segemntation](segment-customers.png "segment-customers")
 ![Customer Segemntation](Customer_segmentation_plot.png "Customer_segmentation_plot")
