@@ -39,7 +39,8 @@
 ![Region_Distribution](yearly_sales_by_country_query.png "Query")
 ![Region_Distribution](yearly_sales_by_country_top_5_code.png "Top 5 country code")
 ![Region Distribution](yearly_sales_by_country_visulaisation_code "Pie_Chart Visualisation")
-![Region Distribution](Country_revenue_profit_plot.png "Plot")
+![Region Distribution](Country_Sales_PIE_chart_2024.png "Plot")
+![Region Distribution](Country_Profits_PIE_chart_2024.png "Plot")
 
 ### Customer Acquisition
 ## Customer Acquisition Revenue Distribution and Average Order Value Pie charts (2024)
