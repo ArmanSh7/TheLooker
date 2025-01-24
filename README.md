@@ -14,10 +14,10 @@
 ### Code
 
 ## Yearly Revenue and Profit Trends
-![Financial Overview](Sales_profits_yearly_trend_query.png "Sales-Profit-trend_Query")
-![Financial Overview](Sales_profits_yearly_trend_code.png "Sales-Profit-trend_Code")
-[Financial Overview](Sales_profits_yearly_trend_visualisation_code.png "Sales-Profit-trend_plot_code")
-[Financial Overview](Sales_profits_yearly_trend_plot.png "Sales-Profit-trend_plot")
+![Yearly Revenue and Profit Trends](Sales_profits_yearly_trend_query.png "Sales-Profit-trend_Query")
+![Yearly Revenue and Profit Trends](Sales_profits_yearly_trend_code.png "Sales-Profit-trend_Code")
+![Yearly Revenue and Profit Trends](Sales_profits_yearly_trend_visualisation_code.png "Sales-Profit-trend_Query")
+![Yearly Revenue and Profit Trends](Sales_profits_yearly_trend_plot.png "Sales-Profit-trend_Code")
 
 ## Top 9 product distribution (2024)
 
