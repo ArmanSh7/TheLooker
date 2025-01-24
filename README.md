@@ -20,7 +20,7 @@
 ![Yearly Revenue and Profit Trends](Sales_profits_yearly_trend_plot.png "Sales-Profit-trend_plot")
 
 ## Quarterly Revenue and Profit Trends
-![Quarterly Revenue and Profit Trends](Sales_profits_querterly_trend_visualisation_code.png "Sales-Profit-trend_plot")
+![Quarterly Revenue and Profit Trends](Sales_profits_querterly_trend_plot.png "Sales-Profit-trend")
 
 
 ## Top 9 product distribution (2024)
