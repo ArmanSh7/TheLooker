@@ -76,5 +76,6 @@
 ![Customer Segemntation](assign-rfm-segments.png "assign_rfm_segmentation")
 ![Customer Segemntation](segment-customers.png "segment-customers")
 ![Customer Segemntation](Customer-segmentation-Visulisation-code-1 "Customer_segmentation_plot_code")
-![Customer Segemntation](Customer-segmentation-Visulisation-code-1 "Customer_segmentation_plot_code")
+![Customer Segemntation](Customer-segmentation-Visulisation-code-2 "Customer_segmentation_plot_code")
+![Customer Segemntation](Customer-segmentation-Visulisation-code-3 "Customer_segmentation_plot_code")
 ![Customer Segemntation](Customer_segmentation_plot.png "Customer_segmentation_plot")
