@@ -68,3 +68,12 @@
 ![Financial Overview](each_traffic_Source_conversion_rate_query_alltime.png "Conversion rate query")
 ![Financial Overview](each_traffic_Source_conversion_rate_plot_code_alltime.png "Conversion rate code")
 ![Financial Overview](each_traffic_Source_conversion_rate_plot_alltime.png "Conversion rate plot")
+
+## Customer Segemntation based on Customers’ Recency, Frequency and Monetary spend(RFM)
+
+![Customer Segemntation](RFM-query.png "RFM_Query")
+![Customer Segemntation](RFM-find_score.png "RFM-find_score")
+![Customer Segemntation](RFM-find_score_Aplied.png "RFM-find_score_applied")
+![Customer Segemntation](Assign-rfm-segments.png "assign_rfm_segmentation")
+![Customer Segemntation](Segment-customers.png "segment-customers")
+![Customer Segemntation](Customer_segmentation_plot.png "Customer_segmentation_plot")
